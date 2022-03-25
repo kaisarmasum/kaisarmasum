@@ -48,7 +48,6 @@ print("I love to search for beauty in the brain, not in outlook!!!")
 ***Stay in touch:***
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/abukaisar24/)
-[![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000?&logo=CodeSandbox&logoColor=ffffff)](https://codesandbox.com/alvaro%20israel%20nunes%20leite)
 
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaisarmasum&show_icons=true&locale=en&layout=compact" alt="kaisarmasum" /></p>

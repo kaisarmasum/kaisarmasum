@@ -4,30 +4,18 @@
 <h5 align='center'>If you are here, please check my work list ⭐️ at <a href='https://scholar.google.com/citations?user=B194MGYAAAAJ'>Go
  Google Scholars</a>! Study from my profile! 👍🏻</h6>
 
-
-<div align="center"> 
-  <img width="255" src="https://github.com/MahamudM90/MahamudM90/blob/main/preview/programer.gif">
-</div>
-<h5 align='center'></h6>
-
-
  ### About me:
 
 - 🔭 Research Projects: 
- 1. []()
- 2.[]()
- 3.[]
- 4.[]
- 5. []
- 6. []
- 7. []
- 8. []
- 9. []
- 10. []
+1. [Covid-19 in Bangladesh using Time Series] (https://github.com/kaisarmasum/COVID-19-in-Bangladesh-Time-Series-Analysis)
+2. [Bengali Abstractive Text Summarization] (https://github.com/kaisarmasum/Bengali-abstractive-text-summarization-using-sequence-to-sequence-RNNs)
+3. [Bengali Spell Checker] (https://github.com/kaisarmasum/Bengali-Word-Spelling-Correction-Using-Pre-trained-Word2Vec)
+4.[Bengali-to-English Machine Translation] (https://github.com/kaisarmasum/Bengali-to-English-Machine-Translation)
+5. [Bangla Attention-based Question Answering] (https://github.com/kaisarmasum/Bangla-attention-based-question-answering)
 
-- 🌱 I’m currently learning: **[GitHub Copilot](https://github.com/github/copilot-preview)**
+- 🌱 I’m currently learning: **[NLP & Speech Recognition](https://www.linkedin.com/in/abukaisar24/)**
 
-- 📫 How to reach me? **abu.cse@diu.edu.bd,abukaisar24@gmail.com**
+- 📫 How to reach me? **abu.cse@diu.edu.bd, abukaisar24@gmail.com**
   or **[LinkedIn](https://www.linkedin.com/in/abukaisar24/)**
 
 - 🎂 Fun fact: ** Serious only for work!! But not life!!!**

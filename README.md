@@ -4,7 +4,7 @@
 <h5 align='center'>If you are here, please check my work list ⭐️ at <a href='https://scholar.google.com/citations?user=B194MGYAAAAJ'>Go
  Google Scholars</a>! Study from my profile! 👍🏻</h6>
 
- ### About me:
+ ### About Me:
 
 - 🔭 Research Projects: 
 1. [Covid-19 in Bangladesh using Time Series] (https://github.com/kaisarmasum/COVID-19-in-Bangladesh-Time-Series-Analysis)
@@ -13,7 +13,7 @@
 4.[Bengali-to-English Machine Translation] (https://github.com/kaisarmasum/Bengali-to-English-Machine-Translation)
 5. [Bangla Attention-based Question Answering] (https://github.com/kaisarmasum/Bangla-attention-based-question-answering)
 
-- 🌱 I’m currently learning: **[NLP & Speech Recognition](https://www.linkedin.com/in/abukaisar24/)**
+- 🌱 I’m currently working: **[NLP & Speech Recognition](https://www.linkedin.com/in/abukaisar24/)**
 
 - 📫 How to reach me? **abu.cse@diu.edu.bd, abukaisar24@gmail.com**
   or **[LinkedIn](https://www.linkedin.com/in/abukaisar24/)**
@@ -27,7 +27,6 @@ print("Love to explore human brain!!!")
 print("I love to search for beauty in the brain, not in outlook!!!")
 
 ```
-
 
 **Technologies:**
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)

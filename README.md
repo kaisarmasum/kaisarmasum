@@ -2,7 +2,7 @@
  
 
 <h5 align='center'>If you are here, please check my work list ⭐️ at <a href='https://scholar.google.com/citations?user=B194MGYAAAAJ'>Go
- Google Scholars</a>! Study from my profile! 👍🏻</h6>
+ Google Scholars</a>!👍🏻</h6>
 
  ### About Me:
 

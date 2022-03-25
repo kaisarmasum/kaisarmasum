@@ -10,7 +10,7 @@
 1. [Covid-19 in Bangladesh using Time Series] (https://github.com/kaisarmasum/COVID-19-in-Bangladesh-Time-Series-Analysis)
 2. [Bengali Abstractive Text Summarization] (https://github.com/kaisarmasum/Bengali-abstractive-text-summarization-using-sequence-to-sequence-RNNs)
 3. [Bengali Spell Checker] (https://github.com/kaisarmasum/Bengali-Word-Spelling-Correction-Using-Pre-trained-Word2Vec)
-4.[Bengali-to-English Machine Translation] (https://github.com/kaisarmasum/Bengali-to-English-Machine-Translation)
+4. [Bengali-to-English Machine Translation] (https://github.com/kaisarmasum/Bengali-to-English-Machine-Translation)
 5. [Bangla Attention-based Question Answering] (https://github.com/kaisarmasum/Bangla-attention-based-question-answering)
 
 - 🌱 I’m currently working: **[NLP & Speech Recognition](https://www.linkedin.com/in/abukaisar24/)**
@@ -18,7 +18,7 @@
 - 📫 How to reach me? **abu.cse@diu.edu.bd, abukaisar24@gmail.com**
   or **[LinkedIn](https://www.linkedin.com/in/abukaisar24/)**
 
-- 🎂 Fun fact: ** Serious only for work!! But not life!!!**
+- 🎂 Fun fact: ***Serious only for work!! But not life!!!***
 
 
  
@@ -28,7 +28,7 @@ print("I love to search for beauty in the brain, not in outlook!!!")
 
 ```
 
-**Technologies:**
+***Technologies:***
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=B62829)
@@ -45,7 +45,7 @@ print("I love to search for beauty in the brain, not in outlook!!!")
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=179EDC)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
-**Stay in touch:**
+***Stay in touch:***
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/abukaisar24/)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000?&logo=CodeSandbox&logoColor=ffffff)](https://codesandbox.com/alvaro%20israel%20nunes%20leite)

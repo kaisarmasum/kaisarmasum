@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently working: **[NLP & Speech Recognition](https://www.linkedin.com/in/abukaisar24/)**
 
-- 📫 How to reach me? **abu.cse@diu.edu.bd, abukaisar24@gmail.com**
+- 📫 How to reach me? **abu.cse@diu.edu.bd, abukaisar24@gmail.com, kaisar@cilab.ai, mohammad15-6759@diu.edu.bd**
   or **[LinkedIn](https://www.linkedin.com/in/abukaisar24/)**
 
 - 🎂 Fun fact: ***Serious only for work!! But not life!!!***

@@ -5,12 +5,13 @@
  Google Scholars</a>!👍🏻</h6>
 
  ### About Me:
-Abu Kaisar Mohammad Masum completed his B.Sc. from Daffodil International University (DIU) in Bangladesh.
+I am Abu Kaisar Mohammad Masum, a dedicated professional in machine learning, natural language processing, and quantum machine learning. I have started my Ph.D. in Computer Science at the Florida Institute of Technology, where I am focusing on Quantum-Classical machine learning research as a Graduate Research Assistant. Currently, I am involving into several projects such as building Quantum-Classical Hybrid models for machine learning and exploring Quantum-Attention mechanisms for large language models (LLMs). I also have the research plan to design a Classical to Quantum Data Encoding Method for Quantum Machine Learning Algorithms. I have experienced as a Lecturer at Daffodil International University, teaching various undergrad courses such as machine learning, AI, Datamining and designing new ones. Additionally, I conducted extensive research, contributing to reputable journal and conference publications, earning me awards and recognition.
 
-Now he is a Lecturer in the Dept. of CSE, DIU. Previously he worked as Research Assistant(RA) in Apurba-DIU Research & Development Lab. He has a number of articles published  in several Scopus Indexed proceedings of IEEE, Springer and Elsevier, and has served on several International conferences and journals as a reviewer. Broadly, his methodological research focuses on the Application of Machine Learning, Natural Language Processing (NLP), Computer Vision and Data mining. He currently works on different areas of NLP and Adaptive algorithms.
+My passion for education and commitment to advancing AI and ML drove me throughout my career. I've also worked as a Research Assistant at Apurba-DIU R&D Lab, a team leader for Optical Character Recognition annotation, and a Researcher at DIU NLP and Machine Learning Research Lab, specializing in transformers and language models.
 
-Mr. Masum has received  Best Researcher Award-2021 organized by DIU and awarded as Best Performed Faculty Member of DIU. He also received ‘In Recognition of Scholar Publication in Reputed Indexed Journal’ award for the fourth time in the year of 2019-2022 by DIU. Mr. Masum is a Supervisor of the DIU - NLP and Machine Learning Research LAB.
- 
+My technical skills encompass Python, libraries like Numpy and TensorFlow, NLP frameworks, and quantum computing tools like IBM Qiskit and Pennylane QML. I've actively participated in conferences and journals, including serving as a Program Committee Member. I've been honored with awards, including the "Best Performing Faculty 2021 Members Award" and the "Best Researcher Award 2020."
+
+Beyond academia, I've volunteered at research labs like Computational Intelligence Lab and PetaAI Solutions. In summary, my career has been defined by a passion for AI and ML, dedication to education, and a commitment to impactful contributions in this dynamic field.
 - 🔭 Research Projects: 
 1. [Covid-19 in Bangladesh using Time Series] (https://github.com/kaisarmasum/COVID-19-in-Bangladesh-Time-Series-Analysis)
 2. [Bengali Abstractive Text Summarization] (https://github.com/kaisarmasum/Bengali-abstractive-text-summarization-using-sequence-to-sequence-RNNs)

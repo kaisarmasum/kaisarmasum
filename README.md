@@ -67,7 +67,7 @@ print("I love to search for beauty in the brain, not in outlook!!!")
  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarmasum&" alt="kaisarmasum" /></p>
  </div>
  <div align="center"> 
- <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=radical&hide_border=false" /></p>
+ <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=github&hide_border=false" /></p>
  </div>
  
 

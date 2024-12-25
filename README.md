@@ -20,9 +20,9 @@ Beyond academia, I've volunteered at research labs like Computational Intelligen
 4. [Bengali-to-English Machine Translation] (https://github.com/kaisarmasum/Bengali-to-English-Machine-Translation)
 5. [Bangla Attention-based Question Answering] (https://github.com/kaisarmasum/Bangla-attention-based-question-answering)
 
-- 🌱 I’m currently working: **[NLP & Speech Recognition](https://www.linkedin.com/in/abukaisar24/)**
+- 🌱 I’m currently working: **[ML,QML,HDC,BioMedical](https://www.linkedin.com/in/abukaisar24/)**
 
-- 📫 How to reach me? **abu.cse@diu.edu.bd, abukaisar24@gmail.com, kaisar@cilab.ai, mohammad15-6759@diu.edu.bd**
+- 📫 How to reach me? **abukaisar24@gmail.com**
   or **[LinkedIn](https://www.linkedin.com/in/abukaisar24/)**
 
 - 🎂 Fun fact: ***Serious only for work!! But not life!!!***
@@ -30,7 +30,6 @@ Beyond academia, I've volunteered at research labs like Computational Intelligen
 
  
 ```tsx
-print("Love to explore human brain!!!")
 print("I love to search for beauty in the brain, not in outlook!!!")
 
 ```

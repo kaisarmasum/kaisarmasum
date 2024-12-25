@@ -13,14 +13,8 @@ Abu has been awarded various scholarships and grants, such as the Full-Funded Qu
 
 He has also completed several training programs and certifications, including the IBM Quantum Challenge 2024, AWS Academy Data Engineering, AI & ML Security at LSU/IBM AI & Security Summer Bootcamp 2024, and multiple courses on platforms like Coursera and Udacity.
 Beyond academia, I've volunteered at research labs like Computational Intelligence Lab and PetaAI Solutions. In summary, my career has been defined by a passion for AI and ML, dedication to education, and a commitment to impactful contributions in this dynamic field.
-- 🔭 Research Projects: 
-1. [Covid-19 in Bangladesh using Time Series] (https://github.com/kaisarmasum/COVID-19-in-Bangladesh-Time-Series-Analysis)
-2. [Bengali Abstractive Text Summarization] (https://github.com/kaisarmasum/Bengali-abstractive-text-summarization-using-sequence-to-sequence-RNNs)
-3. [Bengali Spell Checker] (https://github.com/kaisarmasum/Bengali-Word-Spelling-Correction-Using-Pre-trained-Word2Vec)
-4. [Bengali-to-English Machine Translation] (https://github.com/kaisarmasum/Bengali-to-English-Machine-Translation)
-5. [Bangla Attention-based Question Answering] (https://github.com/kaisarmasum/Bangla-attention-based-question-answering)
 
-- 🌱 I’m currently working: **[ML,QML,HDC,BioMedical](https://www.linkedin.com/in/abukaisar24/)**
+- 🌱 I’m currently working on: **[ML,QML,HDC,BioMedical](https://www.linkedin.com/in/abukaisar24/)**
 
 - 📫 How to reach me? **abukaisar24@gmail.com**
   or **[LinkedIn](https://www.linkedin.com/in/abukaisar24/)**
@@ -67,7 +61,7 @@ print("I love to search for beauty in the brain, not in outlook!!!")
  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarmasum&" alt="kaisarmasum" /></p>
  </div>
  <div align="center"> 
- <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=github&hide_border=false" /></p>
+ <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=github&hide_border=true" /></p>
  </div>
  
 

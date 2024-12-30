@@ -5,7 +5,7 @@
  Google Scholars</a>!👍🏻</h6>
 
  ### About Me:
-Abu Kaisar Mohammad Masum is a Ph.D. student specializing in Quantum Machine Learning and Emerging Computing at the University of Louisiana at Lafayette. He holds a Bachelor's in Computer Science and Engineering from Daffodil International University, Dhaka, Bangladesh. With over 650 citations, Abu has significantly contributed to quantum algorithms, machine learning, and natural language processing.
+Abu Kaisar Mohammad Masum is a Ph.D. student specializing in Quantum Machine Learning and Emerging Computing at the University of Louisiana at Lafayette. He holds a Bachelor's in Computer Science and Engineering from Daffodil International University, Dhaka, Bangladesh. With over 660 citations, Abu has significantly contributed to quantum algorithms, machine learning, and natural language processing.
 
 He has been honored with several awards, including the "Outstanding Student of The Year 2023" and the "Peer Tutoring Excellence Award Fall 2023 & Spring 24" at the Florida Institute of Technology. He also received the "Best Performing Faculty 2021 Members" and "Best Researcher Award 2021" from Daffodil International University. Additionally, he earned a certification in recognition of Scholarly Publication in a Reputed Indexed Journal.
 

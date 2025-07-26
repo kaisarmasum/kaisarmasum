@@ -87,7 +87,7 @@ print("I love to search for beauty in the brain, not in outlook!!!")
   <a href="https://github.com/kaisarmasum" title="Language breakdown by GitHub activity">
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaisarmasum&theme=github_dark" 
-      alt="Top languages by repository" width="30%" />
+      alt="" width="30%" />
   </a>
 </div>
 

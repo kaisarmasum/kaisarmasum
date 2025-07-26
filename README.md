@@ -64,45 +64,24 @@ print("I love to search for beauty in the brain, not in outlook!!!")
 
 ---
 
-## 📈 GitHub Insights
+## 📈 GitHub Insights:
 
 <div align="center">
-
-### 🔍 Contribution Overview
-<a href="https://github.com/kaisarmasum">
-  <img title="GitHub Profile Stats" alt="kaisarmasum's GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=kaisarmasum&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15" />
-</a>
-
----
-
-### 🔥 Streak & Activity
-<a href="https://github.com/kaisarmasum">
-  <img title="GitHub Streak Stats" alt="kaisarmasum's GitHub Streak"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarmasum&theme=radical&border_radius=15" />
-</a>
-
----
-
-### 💬 Top Languages Used
-<a href="https://github.com/kaisarmasum">
-  <img title="Top Languages" alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisarmasum&layout=compact&theme=radical&border_radius=15" />
-</a>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-  <a href="https://github.com/kaisarmasum" title="Click to view full GitHub profile">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=white&area=false&hide_border=false&radius=16&custom_title=Daily%20GitHub%20Activity" 
-      alt="kaisarmasum's GitHub activity graph" width="98%" />
-  </a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kaisarmasum&show_icons=true&theme=default&locale=en" alt="kaisarmasum" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarmasum&theme=default" alt="kaisarmasum" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisarmasum&layout=compact&theme=default" alt="kaisarmasum" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=github" alt="Activity Graph"/>
+</div>
+
 ---
 
 ## 🧠 Research Interests Visualized

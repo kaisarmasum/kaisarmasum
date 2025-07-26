@@ -95,7 +95,7 @@ print("I love to search for beauty in the brain, not in outlook!!!")
 ### 📊 Coding Activity Graph
 <a href="https://github.com/kaisarmasum">
   <img title="Activity Graph" alt="kaisarmasum's Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=dracula&hide_border=true&border_radius=15" />
+       src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=github-dark&hide_border=true&border_radius=15" />
 </a>
 
 </div>

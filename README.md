@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🚀 Ph.D. Student | Quantum Machine Learning, Hyperdimensional Computing | Researcher with 750+ Citations
+  🚀 Ph.D. Student | Quantum Machine Learning, Hyperdimensional Computing |
 </p>
 
 <p align="center">

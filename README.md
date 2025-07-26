@@ -74,7 +74,6 @@ print("I love to search for beauty in the brain, not in outlook!!!")
        src="https://github-readme-stats.vercel.app/api?username=kaisarmasum&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15" />
 </a>
 
----
 
 ### 🔥 Streak & Activity
 <a href="https://github.com/kaisarmasum">
@@ -82,7 +81,6 @@ print("I love to search for beauty in the brain, not in outlook!!!")
        src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarmasum&theme=radical&border_radius=15" />
 </a>
 
----
 ### 💬 Top Languages Used
 
 <div align="center">

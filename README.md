@@ -83,7 +83,6 @@ print("I love to search for beauty in the brain, not in outlook!!!")
 </a>
 
 ---
-
 ### 💬 Top Languages Used
 
 <div align="center">
@@ -93,7 +92,6 @@ print("I love to search for beauty in the brain, not in outlook!!!")
       alt="Top languages by repository" width="30%" />
   </a>
 </div>
----
 
 ### 📊 Coding Activity Graph
 <a href="https://github.com/kaisarmasum">

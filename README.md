@@ -1,64 +1,123 @@
-<h1 align='center'>Hi!!! I'm Abu Kaisar Mohammad Masum</h1>
- 
+<h1 align="center">
+  👋 Hi!!! I'm <span style="color:#0077B5">Abu Kaisar Mohammad Masum</span>  
+</h1>
 
-<h5 align='center'>If you are here, please check my work list ⭐️ at <a href='https://scholar.google.com/citations?user=B194MGYAAAAJ'>Go
- Google Scholars</a>!👍🏻</h6>
+<p align="center">
+  🚀 Ph.D. Student | Quantum Machine Learning, Hyperdimensional Computing | Researcher with 750+ Citations
+</p>
 
- ### About Me:
-Abu Kaisar Mohammad Masum is a Ph.D. student in Quantum Machine Learning and Emerging Computing at the University of Louisiana at Lafayette. He holds a Bachelor's degree in Computer Science and Engineering from Daffodil International University, Bangladesh, and has authored multiple research papers in premier conferences such as DAC, ISLPED, ISCAS, HPCA, GLSVLSI, QCE, and MWSCAS, accumulating over 750 citations. In 2025, Abu was selected as a DAC Young Fellow and had papers accepted to DAC 2025, in addition to poster acceptances at IEEE VIS 2024. He serves as a Session Chair for ICMLA 2024 and has been a Program Committee Member for ICMLA since 2023.
+<p align="center">
+  ⭐️ Check out my work on 
+  <a href="https://scholar.google.com/citations?user=B194MGYAAAAJ" target="_blank">
+    <strong>Google Scholar</strong></a>
+</p>
 
-His academic achievements have been recognized through numerous awards, including the Academic Excellence Award and the Leaf Award at ULL (2025), the Outstanding Student of the Year (2023), and Peer Tutoring Excellence Awards (Fall 2023 & Spring 2024) at FIT. He was also honored with the Best Performing Faculty and Best Researcher Awards from Daffodil International University in 2021. Abu has secured several prestigious scholarships and travel grants, including full funding to attend the Quantum Ideas Summer School 2024 at Duke University, support to participate in the TigerAI Bootcamp at LSU, a travel grant from IEEE CEDA (2025), and graduate assistantships at both ULL and FIT.
+---
 
-Beyond his academic pursuits, he remains active in the research community as a member of IEEE, IEEE CASS, IEEE CEDA, and the IEEE Quantum Technical Community. He has delivered invited talks, including one at the Ingenii Global Meetup 2023. He also continuously expands his expertise through certifications such as the IBM Quantum Challenge 2024, AWS Academy Data Engineering, and the AI & ML Security Bootcamp at LSU/IBM.
+## 👨‍💻 About Me:
 
-- 🌱 I’m currently working on: **[ML,QML,HDC,BioMedical](https://www.linkedin.com/in/abukaisar24/)**
+🎓 **Ph.D. Student** in Quantum Machine Learning @ University of Louisiana at Lafayette  
+📘 Former B.Sc. in CSE @ Daffodil International University, Bangladesh  
+📊 **Published in**: DAC, ISLPED, ISCAS, HPCA, GLSVLSI, QCE, MWSCAS  
+🌐 **750+ Citations** | 🏆 DAC Young Fellow 2025 | 📍 Poster @ IEEE VIS 2024  
 
-- 📫 How to reach me? **abukaisar24@gmail.com**
-  or **[LinkedIn](https://www.linkedin.com/in/abukaisar24/)**
+🧠 Awards & Grants:
+- 🏅 DAC Young Fellow 2025
+- 🎓 Academic Excellence & Leaf Award (ULL)
+- 🌟 Outstanding Student & Peer Tutoring Excellence (FIT)
+- ✈️ IEEE CEDA Travel Grant, Quantum Ideas Summer School (Duke), TigerAI Bootcamp
 
-- 🎂 Fun fact: ***Serious only for work!! But not life!!!***
-- Website:**[Abu Kaisar Mohammad Masum](https://sites.google.com/view/abu-kaisar-mohammad-masum)**, **[Abu Kaisar](https://faculty.daffodilvarsity.edu.bd/profile/cse/abukaisar.html)**
+🔗 I’m affiliated with IEEE, IEEE CASS, CEDA, Quantum TC  
+🗣 Delivered invited talks e.g., Ingenii Global Meetup 2023  
+📜 Certified: IBM Quantum Challenge 2024, AWS Data Engineering, AI & ML Security Bootcamp
 
- 
+---
+
+## 🔍 Currently Working On:
+[**Machine Learning, Quantum ML, HDC, Biomedical AI**](https://www.linkedin.com/in/abukaisar24/)
+
+---
+
+## 📫 Reach Me At:
+
+- 📧 Email: [abukaisar24@gmail.com](mailto:abukaisar24@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abukaisar24/)
+- 🌐 [My Website](https://sites.google.com/view/abu-kaisar-mohammad-masum)
+- 👨‍🏫 [Faculty Page](https://faculty.daffodilvarsity.edu.bd/profile/cse/abukaisar.html)
+
+---
+
+## 🌟 Fun Fact:
 ```tsx
 print("I love to search for beauty in the brain, not in outlook!!!")
-
 ```
 
-***Technologies:***
-![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=B62829)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=gradle&logoColor=02303A)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter&logoColor=FF9900)
-![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy&logoColor=B62829)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-![c](https://img.shields.io/badge/-c-000?&logo=c)
-![Php](https://img.shields.io/badge/-Php-000?&logo=Php&logoColor=007ACC)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=B62829)
-![Markdown](https://img.shields.io/badge/-Markdown%20-000?&logo=Markdown&logoColor=FC444F)
-![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=179EDC)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+🎂 *Serious only for work!! But not life!!!*
 
-***Stay in touch:***
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/abukaisar24/)
+## 🚀 Tech Stack & Tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,jupyter,pycharm,vscode,git,github,heroku" />
+</p>
+
+---
+
+## 📈 GitHub Insights:
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaisarmasum&show_icons=true&locale=en&layout=compact" alt="kaisarmasum" /></p>
- </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaisarmasum&show_icons=true&theme=default&locale=en" alt="kaisarmasum" />
+</div>
 
 <div align="center">
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kaisarmasum&show_icons=true&locale=en" alt="kaisarmasum" /></p>
- </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarmasum&theme=default" alt="kaisarmasum" />
+</div>
 
-<div align="center"> 
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaisarmasum&" alt="kaisarmasum" /></p>
- </div>
- <div align="center"> 
- <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=github&hide_border=true" /></p>
- </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisarmasum&layout=compact&theme=default" alt="kaisarmasum" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=github" alt="Activity Graph"/>
+</div>
 
+---
+
+## 🧠 Research Interests Visualized:
+
+```mermaid
+graph LR
+  ML[Machine Learning] --> QML[Quantum ML]
+  ML --> HDC[Hyperdimensional Computing]
+  QML --> Bio[Biomedical Applications]
+  ML --> Sec[AI/ML Security]
+  QML --> Comp[Emerging Computing]
+```
+
+---
+
+## 🎤 Talk & Certifications Showcase:
+
+- 📢 *Ingenii Global Meetup 2023* — Invited Speaker  
+- 🎓 *IBM Quantum Challenge 2024*  
+- 🧠 *AI & ML Security Bootcamp* @ LSU/IBM  
+- ☁️ *AWS Academy Data Engineering*  
+- 🧪 *Quantum Ideas Summer School* @ Duke (Fully Funded)
+
+---
+
+## ❤️ Let’s Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abukaisar24/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:abukaisar24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ _“Striving to build beautiful minds, not just beautiful machines.”_

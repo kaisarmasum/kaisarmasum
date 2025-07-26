@@ -129,7 +129,7 @@ graph TD
   ML --> Sec
   QML --> Bio
   QML --> Comp
-
+---
 ---
 
 ## 🎤 Talk & Certifications Showcase:

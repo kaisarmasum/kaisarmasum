@@ -98,12 +98,11 @@ print("I love to search for beauty in the brain, not in outlook!!!")
 
   <a href="https://github.com/kaisarmasum" title="Click to view full GitHub profile">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=nordborg&area=true&hide_border=true&radius=16&custom_title=Daily%20GitHub%20Activity" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=light&area=true&hide_border=false&radius=16&custom_title=Daily%20GitHub%20Activity" 
       alt="kaisarmasum's GitHub activity graph" width="98%" />
   </a>
 
 </div>
-
 ---
 
 ## 🧠 Research Interests Visualized

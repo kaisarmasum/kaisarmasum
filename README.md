@@ -96,9 +96,10 @@ print("I love to search for beauty in the brain, not in outlook!!!")
 
 <div align="center">
 
-  <a href="https://github.com/kaisarmasum" title="Visit GitHub Profile">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=reactive&area=true&hide_border=false&radius=14&color=00ccff&line=00ccff&point=ffffff&area_color=00ccff33" 
-         alt="kaisarmasum's Activity Graph" width="95%" />
+  <a href="https://github.com/kaisarmasum" title="Click to view full GitHub profile">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=kaisarmasum&theme=nordborg&area=true&hide_border=true&radius=16&custom_title=Daily%20GitHub%20Activity" 
+      alt="kaisarmasum's GitHub activity graph" width="98%" />
   </a>
 
 </div>

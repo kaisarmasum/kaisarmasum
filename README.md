@@ -92,7 +92,7 @@ print("I love to search for beauty in the brain, not in outlook!!!")
 
 ---
 
-### 📊 GitHub Activity (Interactive Graph)
+### 📊 GitHub Activity
 
 <div align="center">
 
@@ -105,6 +105,27 @@ print("I love to search for beauty in the brain, not in outlook!!!")
 </div>
 
 ---
+
+### 🌐 GitHub Graphical Insights
+
+<div align="center">
+
+  <!-- 🟦 Coding Hours Heatmap -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaisarmasum&theme=solarized_dark" 
+       alt="Productive hours per day" width="85%" />
+
+  <br /><br />
+
+  <!-- 📊 General Stats & Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaisarmasum&theme=solarized_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaisarmasum&theme=solarized_dark" width="48%" />
+
+  <br /><br />
+
+  <!-- 🔥 Most Used Languages by Commit -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaisarmasum&theme=solarized_dark" width="60%" />
+
+</div>
 
 ## 🧠 Research Interests Visualized
 

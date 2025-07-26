@@ -89,7 +89,13 @@ print("I love to search for beauty in the brain, not in outlook!!!")
   <img title="Top Languages" alt="Top Languages"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisarmasum&layout=compact&theme=radical&border_radius=15" />
 </a>
-
+<div align="center">
+  <a href="https://github.com/kaisarmasum" title="Language breakdown by GitHub activity">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaisarmasum&theme=github_dark" 
+      alt="Top languages by repository" width="60%" />
+  </a>
+</div>
 ---
 
 ### 📊 Coding Activity Graph

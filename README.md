@@ -104,32 +104,30 @@ print("I love to search for beauty in the brain, not in outlook!!!")
 
 ## 🧠 Research Interests Visualized
 
-> Here's a dynamic view of the areas I explore, from classical ML to cutting-edge quantum computing!
-
 ```mermaid
-%%{init: {'theme': 'forest', 'themeVariables': { 'nodeBorder': 'gray', 'clusterBkg': '#F6F6F6'}}}%%
 graph TD
-  subgraph ML Domain 🤖
-    ML[Machine Learning 🧠]
-    HDC[Hyperdimensional Computing 🌌]
-    Sec[AI/ML Security 🔐]
-  end
+  %% Machine Learning Branch
+  ML[Machine Learning]
+  HDC[Hyperdimensional Computing]
+  Sec[AI/ML Security]
 
-  subgraph Quantum Computing ⚛️
-    QML[Quantum ML ⚛️]
-    Comp[Emerging Computing 💡]
-  end
+  %% Quantum Computing Branch
+  QML[Quantum Machine Learning]
+  Comp[Emerging Computing]
 
-  subgraph Applications 🌍
-    Bio[Biomedical AI 🧬]
-  end
+  %% Application Branch
+  Bio[Biomedical Applications]
 
+  %% Relationships
   ML --> QML
   ML --> HDC
   ML --> Sec
-  QML --> Bio
   QML --> Comp
----
+  QML --> Bio
+yaml
+Copy
+Edit
+
 ---
 
 ## 🎤 Talk & Certifications Showcase:
